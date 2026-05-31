@@ -1,0 +1,6 @@
+{
+  "name": "East Coast Buyers",
+  "description": "A clean, mobile-first landing page designed to convert flyer traffic into property leads across Nova Scotia, featuring dual submission forms, trust-building copy, click-to-call, and a simple property inquiry processing flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
